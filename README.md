@@ -1,4 +1,4 @@
-# Data-Analysis-for-Car-Sales-
+# Data-Analysis-for-Car-Sales-Data
 Car Sales Analysis using SQLite3
 Data source - https://www.kaggle.com/datasets/mohamedhanyyy/canada-cars-sales-figures-20192021
 
